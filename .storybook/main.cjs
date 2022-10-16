@@ -14,5 +14,12 @@ module.exports = {
   },
   "features": {
     "storyStoreV7": true
+  },
+  viteFinal: (config, {configTyé}) => {
+    if (config === 'PRODUCTION') {
+      config.base = '/lab-ds/'
+    }
+
+    return config
   }
 }
