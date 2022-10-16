@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 #stroybook
-stroybook-static
+storybook-static
