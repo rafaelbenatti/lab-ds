@@ -59,7 +59,7 @@ export function App() {
           <a href='' className='text-gray-400 underline hover:text-gray-200'>Esqueceu sua senha</a>
         </Text>
         <Text>
-          <a href='' className='text-gray-400 underline hover:text-gray-200'>Não Possui conta? Crie uma agora!</a>
+          <a href='' className='text-gray-400 underline hover:text-gray-200'>Não possui conta? Crie agora!</a>
         </Text>
 
       </footer>
