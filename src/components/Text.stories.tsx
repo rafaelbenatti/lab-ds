@@ -38,7 +38,7 @@ export const CustomComponent: StoryObj<TextProps> = {
     args: {
         asChild: true,
         children: (
-            <h1>Heading with H1</h1>
+            <p>Text with P tag</p>
         )
     },
     argTypes: {

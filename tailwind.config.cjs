@@ -15,28 +15,26 @@ module.exports = {
     colors: {
       transparent: 'transparent',
 
-      'black': '#000',
-      'white': '#fff',
+      black: '#000',
+      white: '#fff',
 
       gray: {
         900: '#121214',
         800: '#202024',
         400: '#7c7c8a',
-        100: '#e1e1e6',
         200: '#c4c4cc',
+        100: '#e1e1e6',
       },
 
       cyan: {
         500: '#81d8f7',
         300: '#98e1f8',
-      }
-
-     
+      },
     },
     extend: {
       fontFamily: {
         sans: "Inter, sans-serif"
-      }
+      },
     },
   },
   plugins: [],
